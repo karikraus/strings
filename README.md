@@ -1,6 +1,6 @@
 # strings
 
-This notebook reproduces--with some additions and modifications--the tutorial created by Allison Parrish, which is released under the following generous license and copyright notice:
+This notebook is based on (with extensive additions and modifications) the tutorial created by Allison Parrish, which is released under the following generous license and copyright notice:
 Copyright © 2018 Allison Parrish
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
