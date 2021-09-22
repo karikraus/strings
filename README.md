@@ -23,4 +23,4 @@ SOFTWARE.
 
 Link to Parrish's tutorial: https://github.com/aparrish/rwet/blob/master/expressions-and-strings.ipynb
 
-My notebook also reproduces (and modifies) code from Nick Montfort's Python reimplementation of Alison Knowles' "House of Dust". Montfort has released his program under the same license as Parrish's. https://nickm.com/memslam/a_house_of_dust.html
+My notebook also reproduces (and modifies) code from Nick Montfort's Python reimplementation of Alison Knowles' "House of Dust". Montfort has released his program under the same license as Parrish. https://nickm.com/memslam/a_house_of_dust.html
